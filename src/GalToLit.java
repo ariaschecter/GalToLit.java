@@ -15,8 +15,7 @@ public class GalToLit {
 
         hasil = numgallons * 3.785f;
 
-        System.out.printf("%.2f Gallons * 3.785 = %.3f Liter", numgallons, hasil);
-
-
+        System.out.printf("%.2f Gallons * 3.785 = %.2f Liter", numgallons, hasil);
+        
     }
 }
